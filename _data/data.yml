@@ -19,21 +19,8 @@ sidebar:
   citizenship: Russia
   website: 
   linkedin: https://www.linkedin.com/in/evgenii-chernov-26a7a4377/
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
+  telegram: EV_Chernov # add your nickname without '@' sign
+  
   languages:
     title: Languages
     info:
