@@ -8,17 +8,17 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Evgenii Chernov
+  tagline: System administrator / DevOps Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  email: evgeniychernov1@gmail.com
+  phone: 089 453 4854
+  timezone: Europe/Dublin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Russia
+  website: 
+  linkedin: https://www.linkedin.com/in/evgenii-chernov-26a7a4377/
   xing: alandoe
   github: jekyll
   telegram: # add your nickname without '@' sign
